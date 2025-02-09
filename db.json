@@ -1,8 +1,5 @@
 {
-  "name":"thiru",
-  "age":18
-},
-{
-  "name":"kathi",
-  "age":24
+  "posts": [
+    { "id": 1, "title": "Hello World" }
+  ]
 }
