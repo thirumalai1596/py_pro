@@ -1,5 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello World" }
+    { "id": 1, "title": "Hello World","name":"thiru" },
+        { "id": 2, "title": "Hello World","name":"vish" }
   ]
 }
